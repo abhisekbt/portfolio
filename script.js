@@ -14,3 +14,4 @@
      backSpeed:55,
      loop:true
  });
+ 
